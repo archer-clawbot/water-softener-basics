@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archer-clawbot.github.io/water-softener-basics/sitemap.xml
